@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* background-color: aqua; */
+  width: 100%;
+  height: 100px;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin-right: 100px;
+  cursor: pointer;
+}
+
+.header-left-text {
+  color: #0570b0;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 26px;
+  padding: 20px 20px 20px 10px;
+  cursor: pointer;
+}
+
+.header-icons {
+  font-size: 25px;
+  padding: 20px;
+  cursor: pointer;
+}

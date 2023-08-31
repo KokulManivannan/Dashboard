@@ -1,0 +1,55 @@
+.navbar {
+  width: 100%;
+  height: 64px;
+  background-color: #0570b0;
+}
+
+.navbar-items {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.navbar-item {
+  padding: 0px 20px 0px 20px;
+  color: #ffffff;
+  font-weight: 150;
+  cursor: pointer;
+}
+
+.navbar-item:active {
+  padding: 0px 20px 0px 20px;
+  font-weight: 150;
+  cursor: pointer;
+  color: #c79535;
+  font-weight: 600;
+}
+
+.navbar-item:hover {
+  padding: 0px 20px 0px 20px;
+  color: #c79535;
+  font-weight: 150;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.navbar-item:visited {
+  padding: 0px 20px 0px 20px;
+  color: #c79535;
+  font-weight: 150;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.navbar-item-visit {
+  padding: 0px 20px 0px 20px;
+  color: #c79535;
+  font-weight: 150;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.navbar-image {
+  padding: 10px 50px 0px 30px;
+  cursor: pointer;
+}
